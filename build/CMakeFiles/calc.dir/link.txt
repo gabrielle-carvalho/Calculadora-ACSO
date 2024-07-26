@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/calc.dir/teste.cpp.o -o calc  -Wl,-rpath,/home/bill8/calc/build libcalculator.so 

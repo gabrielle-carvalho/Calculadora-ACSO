@@ -1,4 +1,0 @@
-/home/bill8/calc/build/CMakeFiles/calculator.dir
-/home/bill8/calc/build/CMakeFiles/calc.dir
-/home/bill8/calc/build/CMakeFiles/edit_cache.dir
-/home/bill8/calc/build/CMakeFiles/rebuild_cache.dir
